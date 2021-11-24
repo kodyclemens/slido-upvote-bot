@@ -1,0 +1,19 @@
+{
+  "name": "slido-upvote-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "slido",
+    "slido bot",
+    "upvote",
+    "bot"
+  ],
+  "author": "Kody Clemens <kody.clemens@gmail.com>",
+  "license": "MIT",
+  "description": "Slido Upvote Bot",
+  "dependencies": {
+    "axios": "0.24.0",
+    "prompt-sync": "4.2.0"
+  }
+}
